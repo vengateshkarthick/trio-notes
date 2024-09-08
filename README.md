@@ -121,7 +121,7 @@ This ensures that when a sticky note is dragged, its position is updated in real
 - **Create Note:** Click on the "Add Note" button to create a new sticky note. You can choose from three different colors.
 - **Drag and Drop:** Move notes around the screen. Their positions are automatically saved and retained.
 - **Update/Delete Notes:** You can easily edit or remove notes as needed.
-- **Have Fun:** A random joke from the Official Joke API will be fetched each time you visit the app!
+- **Have Fun:** A random joke from the Official Joke API will be fetched each time you create a new note!
 
 ## License
 
