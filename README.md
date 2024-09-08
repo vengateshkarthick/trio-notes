@@ -1,5 +1,5 @@
 # trio-notes
-Here’s an updated version of the README file with the additional code snippets and removal of the contribution section:
+
 
 ---
 
@@ -25,7 +25,7 @@ A lightweight sticky notes web application built with **Vite** for blazing-fast 
   The app employs reusable hooks for creating, fetching, and updating notes, ensuring clean and maintainable code.
 
 - **Fun Element**  
-  Instead of using native API calls, this app consumes the **Official Joke API** to display random jokes, adding a fun twist to your experience.
+  This app consumes the **Official Joke API** to display random jokes, adding a fun twist to your experience.
 
 ## API Data Interface
 
