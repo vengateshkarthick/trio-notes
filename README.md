@@ -101,22 +101,20 @@ This ensures that when a sticky note is dragged, its position is updated in real
 
 2. Navigate to the project directory:
    ```bash
-   cd sticky-notes-app
+   cd sticky-notes
    ```
 
 3. Install dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 
 4. Set up Appwrite for backend services by following the official [Appwrite documentation](https://appwrite.io/docs).
 
 5. Run the development server:
    ```bash
-   npm run dev
+   yarn run dev
    ```
-
-6. Open your browser and navigate to `http://localhost:3000` to see the app in action!
 
 ## Usage
 
