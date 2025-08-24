@@ -3,7 +3,7 @@
 
 ---
 
-# Sticky Notes App
+# [Sticky Notes App](https://trionotes.netlify.app/)
 
 A lightweight sticky notes web application built with **Vite** for blazing-fast development, **React** for the frontend, and **Appwrite** for backend services. This app offers a fun and productive way to organize your thoughts with interactive sticky notes, complemented by a sprinkle of humor using the **Joke API**.
 
